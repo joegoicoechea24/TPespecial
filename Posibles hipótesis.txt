@@ -1,0 +1,3 @@
+Oxígeno disuelto en base a la tº y la presión.
+Ph según la zona(dulce o salada)
+Suciedad (color, espumas y olor) con atributos químicos.
