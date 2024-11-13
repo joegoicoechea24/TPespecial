@@ -1,3 +1,13 @@
 Oxígeno disuelto en base a la tº y la presión.
 Ph según la zona(dulce o salada)
 Suciedad (color, espumas y olor) con atributos químicos.
+
+
+consultas: 
+    La zona no infiere en la calidad del agua.(?)
+    Cambio de estación con la calidad de agua.
+    Las tempertaturas no determinan el coeficiente ICA.
+    Regresión logística para ver si es salada o dulce según ph y od 
+    Hipótesis para ver e ICA segun la fecha.
+
+grafico de dispersion para dos variables con una.
